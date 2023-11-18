@@ -1,9 +1,5 @@
 # LineScapes - A Generative NFT Art Collection with Python, ChatGPT 3.0, and Polygon 🎨✨
 
-**Introduction**
-
-Welcome to the repository of an exciting project where we'll create a generative NFT art collection using Python, ChatGPT 3.0, and Polygon! 🤯
-
 **Project Overview**
 
 This project aims to explore the intersection of art, technology, and blockchain by generating unique artworks using Python's Pillow (PIL) library and leveraging the power of ChatGPT 3.0 to assign meaningful names to each NFT based on its color and attributes. 🎨🤖
@@ -26,7 +22,7 @@ The generated NFT collection will then be deployed onto the Ethereum Level 2 cha
 
 **Contribution Guidelines**
 
-We welcome contributions from anyone passionate about generative art, NFTs, and blockchain technology! 🎉
+I welcome contributions from anyone passionate about generative art, NFTs, and blockchain technology! 🎉
 
 - Feel free to add new features, improve existing code, or suggest enhancements. ✨
 - Please follow the project's coding style and documentation guidelines. 📄
@@ -38,6 +34,6 @@ We welcome contributions from anyone passionate about generative art, NFTs, and 
 - The use of ChatGPT 3.0 API adds a unique dimension to the naming of NFTs. 🤖✨
 - The deployment onto Polygon highlights the potential of Ethereum Level 2 chains for NFT projects. 🚀
 
-We hope you find this project informative and inspiring! ✨
+I hope you find this project informative and inspiring! ✨
 
 **Happy coding and creating!** 🎨✨
