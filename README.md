@@ -37,3 +37,4 @@ I welcome contributions from anyone passionate about generative art, NFTs, and b
 I hope you find this project informative and inspiring! ✨
 
 **Happy coding and creating!** 🎨✨
+
